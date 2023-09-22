@@ -1,7 +1,9 @@
 ### Hola, Bienvenid@ al espacio github de Luis Martínez 👋
 
 :construction: Proyecto en construcción :construction:
+
 🔭 Estamos trabajando con proyectos para el módulo de Programación ...
+
 🌱 Estamos actualmente aprendiendo Java...
 
 <!--

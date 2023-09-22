@@ -1,8 +1,9 @@
-### Hola 👋
-
-<em> # Página de luismr </em>
+### Hola, Bienvenid@ al espacio github de Luis Martínez 👋
 
 :construction: Proyecto en construcción :construction:
+🔭 Estamos trabajando con proyectos para el módulo de Programación ...
+🌱 Estamos actualmente aprendiendo Java...
+
 <!--
 **luismr-educarex/luismr-educarex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
